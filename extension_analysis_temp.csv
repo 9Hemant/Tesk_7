@@ -1,0 +1,3 @@
+Extension Name,Source,Permissions,Risk Level,Action Taken,Notes
+Example Extension,Chrome Web Store,"Access all websites, Read browsing history",HIGH,REMOVED,Suspicious permissions for stated function
+,,,,,
